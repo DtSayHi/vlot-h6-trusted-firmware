@@ -49,3 +49,6 @@ that is available through `trustedfirmware.org`_.
 .. _view the full documentation: https://www.trustedfirmware.org/docs/tf-a
 .. _trustedfirmware.org: http://www.trustedfirmware.org
 
+Example:
+        make CROSS_COMPILE=aarch64-linux-gnu- PLAT=sun50i_h6 
+
